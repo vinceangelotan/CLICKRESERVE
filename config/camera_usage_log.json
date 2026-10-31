@@ -1,0 +1,20 @@
+[
+    {
+        "id": "use-ord-20261015203457-086fb7b1-canon-eos-r5-mark-ii-mk-ii-1",
+        "orderId": "ord-20261015203457-086fb7b1",
+        "customerId": "3",
+        "customerName": "Vince Angelo Tan",
+        "customerEmail": "tanvinceangelo1030@gmail.com",
+        "productKey": "canon-eos-r5-mark-ii-mk-ii",
+        "model": "CANONEOSR6_MKII",
+        "serial": 1,
+        "serialNumber": "CSR6-001",
+        "systemRef": "CANONEOSR6MKII-001",
+        "receivedAt": "2026-10-28T03:37:03+08:00",
+        "scheduledReturn": "2026-10-17 10:00",
+        "returnedAt": "2026-10-27T19:37:12+00:00",
+        "inspection": "broken",
+        "inspectedAt": "2026-10-27T19:38:04+00:00",
+        "inspectedBy": "admin"
+    }
+]

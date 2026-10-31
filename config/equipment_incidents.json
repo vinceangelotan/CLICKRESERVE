@@ -1,0 +1,19 @@
+[
+    {
+        "productKey": "canon-eos-r5-mark-ii-mk-ii",
+        "model": "CANONEOSR6_MKII",
+        "serial": 1,
+        "serialNumber": "CSR6-001",
+        "orderId": "ord-20261015203457-086fb7b1",
+        "customerId": "3",
+        "customerName": "Vince Angelo Tan",
+        "customerEmail": "tanvinceangelo1030@gmail.com",
+        "note": "broken lens",
+        "reportedBy": "admin",
+        "id": "inc-20261027-193804-1176",
+        "createdAt": "2026-10-27T19:38:04+00:00",
+        "status": "resolved",
+        "resolvedAt": "2026-10-28T15:45:49+00:00",
+        "resolvedBy": "admin"
+    }
+]

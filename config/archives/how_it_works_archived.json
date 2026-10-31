@@ -1,0 +1,26 @@
+[
+    {
+        "archiveKey": "how-it-works-4-20260326-102556",
+        "archivedAt": "2026-03-26T10:25:56+00:00",
+        "slot": 4,
+        "imagePath": "assets/how_it_works/_archived/how-it-works-4-20260326-102556.png"
+    },
+    {
+        "archiveKey": "how-it-works-2-20260326-102619",
+        "archivedAt": "2026-03-26T10:26:19+00:00",
+        "slot": 2,
+        "imagePath": "assets/how_it_works/_archived/how-it-works-2-20260326-102619.png"
+    },
+    {
+        "archiveKey": "how-it-works-2-20260326-102716",
+        "archivedAt": "2026-03-26T10:27:16+00:00",
+        "slot": 2,
+        "imagePath": "assets/how_it_works/_archived/how-it-works-2-20260326-102716.png"
+    },
+    {
+        "archiveKey": "how-it-works-4-20260326-102717",
+        "archivedAt": "2026-03-26T10:27:17+00:00",
+        "slot": 4,
+        "imagePath": "assets/how_it_works/_archived/how-it-works-4-20260326-102717.png"
+    }
+]

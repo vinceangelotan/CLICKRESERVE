@@ -1,0 +1,204 @@
+{
+    "canon-700d": {
+        "timesUsed": 12,
+        "nextSerial": 2,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "CNN-YXDDA500",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 1,
+                "serialNumber": "CNN-YXDED501",
+                "status": "in-use",
+                "timesUsed": 0
+            }
+        ]
+    },
+    "canon-1200d": {
+        "timesUsed": 12,
+        "nextSerial": 1,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "CNN-ADE12001",
+                "status": "in-use",
+                "timesUsed": 0
+            }
+        ]
+    },
+    "fuji-x-a3": {
+        "timesUsed": 12,
+        "nextSerial": 3,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 1,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 2,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            }
+        ]
+    },
+    "canon-4000d": {
+        "timesUsed": 12,
+        "nextSerial": 1,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "CNN-4123A",
+                "status": "broken",
+                "timesUsed": 0,
+                "statusReason": "Water damage",
+                "statusNote": "",
+                "statusChangedAt": "2026-10-28T23:01:57+00:00",
+                "statusChangedBy": "admin"
+            }
+        ]
+    },
+    "sony-zv-e10": {
+        "timesUsed": 12,
+        "nextSerial": 1,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            }
+        ]
+    },
+    "nikon-d60": {
+        "timesUsed": 12,
+        "nextSerial": 1,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            }
+        ]
+    },
+    "sony-a7-iii": {
+        "timesUsed": 12,
+        "nextSerial": 5,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 1,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 2,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            }
+        ]
+    },
+    "canon-eos-r5-mark-ii-mk-ii": {
+        "timesUsed": 12,
+        "nextSerial": 8,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "CSR6-000",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 2,
+                "serialNumber": "CSR6-002",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 3,
+                "serialNumber": "CSR6-004",
+                "status": "in-use",
+                "timesUsed": 0
+            },
+            {
+                "serial": 4,
+                "serialNumber": "CSR6-005",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 5,
+                "serialNumber": "CSR6-006",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 6,
+                "serialNumber": "CSR6-007",
+                "status": "available",
+                "timesUsed": 0
+            },
+            {
+                "serial": 7,
+                "serialNumber": "CSR6-008",
+                "status": "available",
+                "timesUsed": 0
+            }
+        ]
+    },
+    "canon-new-product-1": {
+        "timesUsed": 12,
+        "nextSerial": 1,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "CNNEOS200D-0001",
+                "status": "available",
+                "timesUsed": 0
+            }
+        ]
+    },
+    "canon-new-product-1-1": {
+        "timesUsed": 12,
+        "nextSerial": 1,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            }
+        ]
+    },
+    "canon-new-product-1-2": {
+        "timesUsed": 12,
+        "nextSerial": 1,
+        "units": [
+            {
+                "serial": 0,
+                "serialNumber": "",
+                "status": "available",
+                "timesUsed": 0
+            }
+        ]
+    }
+}

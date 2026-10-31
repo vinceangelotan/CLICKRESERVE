@@ -1,0 +1,115 @@
+{
+    "wedding": {
+        "title": "WEDDING PACKAGE",
+        "price": "800.00",
+        "discountPercent": 10,
+        "folder": "0000",
+        "thumbnail_images": [
+            "assets/event_packages/0000/civil-wedding_Jerome-and-Marian/CLT05321.jpg",
+            "assets/event_packages/0000/civil-wedding_Jerome-and-Marian/CLT05841.jpg",
+            "assets/event_packages/0000/civil-wedding_Jerome-and-Marian/CLT05823.jpg",
+            "assets/event_packages/0000/civil-wedding_Jerome-and-Marian/CLT05969.jpg",
+            "assets/event_packages/0000/wedding_Jeanne-and-Nilo/CLT05491.jpg",
+            "assets/event_packages/0000/wedding_Jeanne-and-Nilo/CLT04842.jpg",
+            "assets/event_packages/0000/wedding_Jeanne-and-Nilo/CLT04801.jpg"
+        ],
+        "camera1": "canon-1200d",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": "",
+        "archived": false,
+        "archivedAt": ""
+    },
+    "birthdays": {
+        "title": "BIRTHDAY PACKAGE",
+        "price": "450.00",
+        "discountPercent": 0,
+        "folder": "0001",
+        "thumbnail_images": [
+            "assets/event_packages/0001/birthday-60th_Delia/IMG_8545.jpg",
+            "assets/event_packages/0001/birthday-Xth_Willow/DSC02165.JPG",
+            "assets/event_packages/0001/baptism_Padua-Silang-Baptism/CLT04304.jpg",
+            "assets/event_packages/0001/birthday-Xth_Zofia/CLT00760.jpg"
+        ],
+        "camera1": "canon-4000d",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": "",
+        "archived": false,
+        "archivedAt": ""
+    },
+    "debut": {
+        "title": "DEBUT PACKAGE",
+        "price": "450.00",
+        "discountPercent": 0,
+        "folder": "0002",
+        "thumbnail_images": [
+            "assets/event_packages/0002/debut_Janna/IMG_6407.jpg",
+            "assets/event_packages/0002/debut_Abishai/IMG_5516.jpg",
+            "assets/event_packages/0002/debut_Janna/IMG_6577 (1).jpg",
+            "assets/event_packages/0002/debut_Janna/IMG_6539 (1).jpg",
+            "assets/event_packages/0002/pre-debut_Sina/DSC00125.jpg",
+            "assets/event_packages/0002/debut_Janna/IMG_6377.jpg",
+            "assets/event_packages/0002/pre-debut_Sina/IMG_1878.jpg"
+        ],
+        "camera1": "canon-700d",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": "",
+        "archived": false,
+        "archivedAt": ""
+    },
+    "photo-shoot": {
+        "title": "PHOTO SHOOT",
+        "price": "600.00",
+        "discountPercent": 0,
+        "folder": "0003",
+        "thumbnail_images": [],
+        "camera1": "fuji-x-a3",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": "",
+        "archived": false,
+        "archivedAt": ""
+    },
+    "business-shoots": {
+        "title": "BUSINESS SHOOTER",
+        "price": "250.00",
+        "discountPercent": 0,
+        "folder": "0004",
+        "thumbnail_images": [
+            "assets/event_packages/0004/business_JCRD-Builders/CLT02022.jpg",
+            "assets/event_packages/0004/business_JCRD-Builders/CLT02102.jpg",
+            "assets/event_packages/0004/business_JCRD-Builders/CLT02468.jpg",
+            "assets/event_packages/0004/business_Romeo-must-be-smiling/IMG_6517.jpg",
+            "assets/event_packages/0004/business_Romeo-must-be-smiling/IMG_6516.jpg",
+            "assets/event_packages/0004/business_Romeo-must-be-smiling/IMG_6548.jpg",
+            "assets/event_packages/0004/business_Romeo-must-be-smiling/IMG_6513.jpg",
+            "assets/event_packages/0004/business_Romeo-must-be-smiling/IMG_6546.jpg",
+            "assets/event_packages/0004/business_Romeo-must-be-smiling/IMG_6539.jpg",
+            "assets/event_packages/0004/business_Romeo-must-be-smiling/IMG_6527.jpg",
+            "assets/event_packages/0004/business_JCRD-Builders/CLT02028.jpg",
+            "assets/event_packages/0004/business_JCRD-Builders/CLT02041.jpg",
+            "assets/event_packages/0004/business_JCRD-Builders/CLT02061.jpg"
+        ],
+        "camera1": "nikon-d60",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": "",
+        "archived": false,
+        "archivedAt": ""
+    },
+    "photo-video-services": {
+        "title": "PHOTOGRAPHY AND VIDEOGRAPHY SERVICES",
+        "price": "899.00",
+        "discountPercent": 0,
+        "folder": "0005",
+        "thumbnail_images": [],
+        "camera1": "sony-zv-e10",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": "",
+        "archived": false,
+        "archivedAt": ""
+    }
+}

@@ -1,0 +1,856 @@
+[
+    {
+        "archiveKey": "Nikon Ardie 20260324-150311",
+        "archivedAt": "2026-03-24T15:03:11+00:00",
+        "originalKey": "canon-700d-copy",
+        "product": {
+            "brand": "Nikon",
+            "name": "Ardie",
+            "price": "800.00",
+            "discountPercent": 50,
+            "spec1": "18MP APS-C CMOS sensor",
+            "spec2": "1080p Full HD video recording at up to 30 fps",
+            "tagline": "18MP APS-C CMOS sensor and 1080p Full HD recording.",
+            "cameraImage": "assets/cameras/_archived/Nikon%20Ardie%2020260324-150311.png",
+            "captureSlides": [
+                "Street portrait placeholder",
+                "Indoor sample placeholder",
+                "Outdoor detail placeholder"
+            ],
+            "specs": {
+                "Brand": [
+                    "Nikon"
+                ],
+                "Imaging and Performance": [
+                    "Sensor: 18MP APS-C CMOS sensor",
+                    "ISO: 100-12800",
+                    "Continuous shooting: 5 fps",
+                    "Autofocus: 9-point AF system"
+                ],
+                "Video": [
+                    "Resolution: Full HD 1080p",
+                    "Frame rates: 24 fps, 25 fps, 30 fps"
+                ],
+                "Physical Specifications": [
+                    "Weight: 580g with battery and card",
+                    "Screen: 3-inch vari-angle touchscreen"
+                ]
+            },
+            "recommendations": [
+                "nikon-d60",
+                "sony-zv-e10",
+                "fuji-x-a3"
+            ]
+        }
+    },
+    {
+        "archiveKey": "Canon 4000D (Copy) 20260324-150312",
+        "archivedAt": "2026-03-24T15:03:12+00:00",
+        "originalKey": "canon-4000d-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "4000D (Copy)",
+            "price": "600.00",
+            "discountPercent": 0,
+            "spec1": "18MP APS-C CMOS sensor",
+            "spec2": "ISO range of 100-6400 (expandable to 12800)",
+            "tagline": "Starter DSLR with a simple layout for casual rentals.",
+            "cameraImage": "assets/cameras/_archived/Canon%204000D%20%28Copy%29%2020260324-150312.png",
+            "captureSlides": [
+                "Lifestyle placeholder",
+                "Daylight placeholder",
+                "Landscape placeholder"
+            ],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Sensor: 18MP APS-C CMOS sensor",
+                    "ISO: 100-6400 expandable to 12800",
+                    "Autofocus: 9-point AF",
+                    "Continuous shooting: 3 fps"
+                ],
+                "Video": [
+                    "Resolution: Full HD 1080p",
+                    "Frame rates: 24 fps, 25 fps, 30 fps"
+                ],
+                "Physical Specifications": [
+                    "Weight: 436g body only",
+                    "Screen: 2.7-inch LCD"
+                ]
+            },
+            "recommendations": [
+                "canon-1200d",
+                "canon-700d",
+                "sony-zv-e10"
+            ]
+        }
+    },
+    {
+        "archiveKey": "Canon 4000D (Copy) 20260324-151202",
+        "archivedAt": "2026-03-24T15:12:02+00:00",
+        "originalKey": "canon-4000d-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "4000D (Copy)",
+            "price": "600.00",
+            "discountPercent": 0,
+            "spec1": "18MP APS-C CMOS sensor",
+            "spec2": "ISO range of 100-6400 (expandable to 12800)",
+            "tagline": "Starter DSLR with a simple layout for casual rentals.",
+            "cameraImage": "assets/cameras/_archived/Canon%204000D%20%28Copy%29%2020260324-151202.png",
+            "captureSlides": [
+                "Lifestyle placeholder",
+                "Daylight placeholder",
+                "Landscape placeholder"
+            ],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Sensor: 18MP APS-C CMOS sensor",
+                    "ISO: 100-6400 expandable to 12800",
+                    "Autofocus: 9-point AF",
+                    "Continuous shooting: 3 fps"
+                ],
+                "Video": [
+                    "Resolution: Full HD 1080p",
+                    "Frame rates: 24 fps, 25 fps, 30 fps"
+                ],
+                "Physical Specifications": [
+                    "Weight: 436g body only",
+                    "Screen: 2.7-inch LCD"
+                ]
+            },
+            "recommendations": [
+                "canon-1200d",
+                "canon-700d",
+                "sony-zv-e10"
+            ]
+        }
+    },
+    {
+        "archiveKey": "Canon Ardie 20260326-102446",
+        "archivedAt": "2026-03-26T10:24:46+00:00",
+        "originalKey": "canon-4000d-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "Ardie",
+            "price": "600.00",
+            "discountPercent": 10,
+            "spec1": "Afasfasf",
+            "spec2": "SAafsafs",
+            "tagline": "Starter DSLR with a simple layout for casual rentals.",
+            "cameraImage": "assets/cameras/_archived/Canon%20Ardie%2020260326-102446.png",
+            "captureSlides": [
+                "Lifestyle placeholder",
+                "Daylight placeholder",
+                "Landscape placeholder"
+            ],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Sensor: 18MP APS-C CMOS sensor",
+                    "ISO: 100-6400 expandable to 12800",
+                    "Autofocus: 9-point AF",
+                    "Continuous shooting: 3 fps"
+                ],
+                "Video": [
+                    "Resolution: Full HD 1080p",
+                    "Frame rates: 24 fps, 25 fps, 30 fps"
+                ],
+                "Physical Specifications": [
+                    "Weight: 436g body only",
+                    "Screen: 2.7-inch LCD"
+                ]
+            },
+            "recommendations": [
+                "canon-1200d",
+                "canon-700d",
+                "sony-zv-e10"
+            ]
+        }
+    },
+    {
+        "archiveKey": "Canon 4000D (Copy) 20260326-102550",
+        "archivedAt": "2026-03-26T10:25:50+00:00",
+        "originalKey": "canon-4000d-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "4000D (Copy)",
+            "price": "600.00",
+            "discountPercent": 0,
+            "spec1": "18MP APS-C CMOS sensor",
+            "spec2": "ISO range of 100-6400 (expandable to 12800)",
+            "tagline": "Starter DSLR with a simple layout for casual rentals.",
+            "cameraImage": "assets/cameras/_archived/Canon%204000D%20%28Copy%29%2020260326-102550.png",
+            "captureSlides": [
+                "Lifestyle placeholder",
+                "Daylight placeholder",
+                "Landscape placeholder"
+            ],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Sensor: 18MP APS-C CMOS sensor",
+                    "ISO: 100-6400 expandable to 12800",
+                    "Autofocus: 9-point AF",
+                    "Continuous shooting: 3 fps"
+                ],
+                "Video": [
+                    "Resolution: Full HD 1080p",
+                    "Frame rates: 24 fps, 25 fps, 30 fps"
+                ],
+                "Physical Specifications": [
+                    "Weight: 436g body only",
+                    "Screen: 2.7-inch LCD"
+                ]
+            },
+            "recommendations": [
+                "canon-1200d",
+                "canon-700d",
+                "sony-zv-e10"
+            ]
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20260326-102551",
+        "archivedAt": "2026-03-26T10:25:51+00:00",
+        "originalKey": "canon-new-product-copy-1",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "price": "100.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020260326-102551.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Sony Assignment 20260326-102553",
+        "archivedAt": "2026-03-26T10:25:53+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Sony",
+            "name": "Assignment",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Sony%20Assignment%2020260326-102553.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Sony"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20260327-093930",
+        "archivedAt": "2026-03-27T09:39:30+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020260327-093930.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20260328-090022",
+        "archivedAt": "2026-03-28T09:00:22+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020260328-090022.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20260402-040452",
+        "archivedAt": "2026-04-02T04:04:52+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020260402-040452.jpg",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20260402-063651",
+        "archivedAt": "2026-04-02T06:36:51+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020260402-063651.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20260403-010058",
+        "archivedAt": "2026-04-03T01:00:58+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020260403-010058.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Mark III 20260403-010100",
+        "archivedAt": "2026-04-03T01:01:00+00:00",
+        "originalKey": "canon-new-product-1",
+        "product": {
+            "brand": "Mark",
+            "name": "III",
+            "skillLevel": "Professional",
+            "category": "Videography",
+            "price": "100.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Mark%20III%2020260403-010100.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Mark"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20261012-073745",
+        "archivedAt": "2026-10-12T07:37:45+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020261012-073745.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20261015-102348",
+        "archivedAt": "2026-10-15T10:23:48+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020261015-102348.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20261025-220552",
+        "archivedAt": "2026-10-25T22:05:52+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020261025-220552.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (1) 20261025-220554",
+        "archivedAt": "2026-10-25T22:05:54+00:00",
+        "originalKey": "canon-new-product-1",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (1)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%281%29%2020261025-220554.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (2) 20261025-220556",
+        "archivedAt": "2026-10-25T22:05:56+00:00",
+        "originalKey": "canon-new-product-2",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (2)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%282%29%2020261025-220556.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (3) 20261025-220558",
+        "archivedAt": "2026-10-25T22:05:58+00:00",
+        "originalKey": "canon-new-product-3",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (3)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%283%29%2020261025-220558.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20261025-221856",
+        "archivedAt": "2026-10-25T22:18:56+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "800.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Portrait, Events, Travel",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020261025-221856.png",
+            "informationImages": [
+                "assets/cameras/product_information/Canon%20New%20Product%20%28Copy%29%20Information.jpg"
+            ],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (1) 20261025-221901",
+        "archivedAt": "2026-10-25T22:19:01+00:00",
+        "originalKey": "canon-new-product-1",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (1)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "450.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Portrait, Events, Travel",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%281%29%2020261025-221901.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (2) 20261028-153210",
+        "archivedAt": "2026-10-28T15:32:10+00:00",
+        "originalKey": "canon-new-product-2",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (2)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%282%29%2020261028-153210.png",
+            "informationImages": [],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    },
+    {
+        "archiveKey": "Canon New Product (Copy) 20261028-153247",
+        "archivedAt": "2026-10-28T15:32:47+00:00",
+        "originalKey": "canon-new-product-copy",
+        "product": {
+            "brand": "Canon",
+            "name": "New Product (Copy)",
+            "skillLevels": [
+                "Beginner"
+            ],
+            "skillLevel": "Beginner",
+            "category": "Photography",
+            "price": "0.00",
+            "discountPercent": 0,
+            "spec1": "New camera specification 1",
+            "spec2": "New camera specification 2",
+            "tagline": "Add a short product tagline.",
+            "cameraImage": "assets/cameras/_archived/Canon%20New%20Product%20%28Copy%29%2020261028-153247.png",
+            "informationImages": [
+                "assets/cameras/product_information/Canon%20New%20Product%20%28Copy%29%20Information%201.jpg"
+            ],
+            "captureSlides": [],
+            "specs": {
+                "Brand": [
+                    "Canon"
+                ],
+                "Imaging and Performance": [
+                    "Add imaging and performance details."
+                ],
+                "Video": [
+                    "Add video details."
+                ],
+                "Physical Specifications": [
+                    "Add physical specifications."
+                ]
+            },
+            "recommendations": []
+        }
+    }
+]

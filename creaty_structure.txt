@@ -1,0 +1,1368 @@
+Folder PATH listing
+Volume serial number is 367B-BF5F
+C:.
+¦   .gitignore
+¦   account_settings_page_customer.php
+¦   account_settings_page_customer.v1.php
+¦   cart_page_customer.php
+¦   cart_page_customer.v1.php
+¦   cart_page_customer.V2.php
+¦   cart_page_customer.v3.php
+¦   clickreserve_test.php
+¦   composer.json
+¦   composer.lock
+¦   copilot-instructions.md
+¦   creaty_structure.txt
+¦   customer_message_modal.php
+¦   customer_message_submit.php
+¦   customer_notifications_center.php
+¦   customer_notifications_live_updates.php
+¦   customer_notifications_mark_read.php
+¦   customer_order_cancel.php
+¦   customer_order_submit.php
+¦   customer_order_upload_delivery_receipt.php
+¦   customer_order_upload_receipt.php
+¦   dashboard_page_admin.php
+¦   dashboard_page_admin.v1.php
+¦   dashboard_page_admin.V2.php
+¦   dashboard_page_admin.v3.php
+¦   delivery-flow-plan.md
+¦   events_page_customer.php
+¦   events_page_customer.v1.php
+¦   event_page_customer.php
+¦   event_page_customer.v1.php
+¦   forgot_password_page_customer.php
+¦   index.php
+¦   index.v1.php
+¦   index.v2.php
+¦   index.v3.php
+¦   json-to-sql-visual-map.md
+¦   login_page_admin.php
+¦   login_page_customer.php
+¦   login_page_customer.v1.php
+¦   login_page_staff.php
+¦   logout_page_admin.php
+¦   logout_page_customer.php
+¦   notifications_page_admin.php
+¦   product_page_customer.php
+¦   product_page_customer.v1.php
+¦   product_page_customer.v2.php
+¦   reset_password_page_customer.php
+¦   search_suggestions.php
+¦   services_page_customer.php
+¦   services_page_customer.v1.php
+¦   service_page_customer.php
+¦   service_page_customer.v1.php
+¦   signup_page_admin.php
+¦   signup_page_customer.php
+¦   test_mail.php
+¦   transaction_history_controls.php
+¦   verify_email_page_customer.php
+¦   
++---.github
+¦       copilot-instructions.md
+¦       events_package_reset.md
+¦       
++---admin
+¦   ¦   index.php
+¦   ¦   logout.php
+¦   ¦   
+¦   +---brands
+¦   ¦       index.php
+¦   ¦       
+¦   +---categories
+¦   ¦       index.php
+¦   ¦       
+¦   +---dashboard
+¦   ¦       archive_event_collection.php
+¦   ¦       archive_event_package.php
+¦   ¦       archive_product.php
+¦   ¦       archive_promo_banner.php
+¦   ¦       close_delivery_leg.php
+¦   ¦       create_event_collection.php
+¦   ¦       create_product.php
+¦   ¦       create_service_collection.php
+¦   ¦       delete_how_it_works.php
+¦   ¦       duplicate_product.php
+¦   ¦       index.php
+¦   ¦       restore_archived_event_collection.php
+¦   ¦       restore_archived_event_package.php
+¦   ¦       restore_archived_how_it_works.php
+¦   ¦       restore_archived_product.php
+¦   ¦       restore_archived_promo_banner.php
+¦   ¦       update_booking_status.1.php
+¦   ¦       update_booking_status.php
+¦   ¦       update_customer_terms.php
+¦   ¦       update_event_collection_images.php
+¦   ¦       update_gcash_qr.php
+¦   ¦       update_how_it_works.php
+¦   ¦       update_product.php
+¦   ¦       update_promo_banner.php
+¦   ¦       update_service_collection_images.php
+¦   ¦       upload_delivery_receipt.php
+¦   ¦       upload_handover_proof.php
+¦   ¦       
+¦   +---event
+¦   ¦       index.php
+¦   ¦       
+¦   +---events
+¦   ¦       index.php
+¦   ¦       
+¦   +---gcash-qr
+¦   ¦       index.php
+¦   ¦       
+¦   +---meeting-places
+¦   ¦       index.php
+¦   ¦       
+¦   +---notifications
+¦   ¦       index.php
+¦   ¦       live_updates.php
+¦   ¦       mark_read.php
+¦   ¦       
+¦   +---products
+¦   ¦       index.php
+¦   ¦       
+¦   +---service
+¦   ¦       index.php
+¦   ¦       
+¦   +---services
+¦   ¦       index.php
+¦   ¦       
+¦   +---signup
+¦   ¦       index.php
+¦   ¦       
+¦   +---toc
+¦           index.php
+¦           
++---archive
+¦   ¦   index.php
+¦   ¦   
+¦   +---events-collections
+¦   ¦       index.php
+¦   ¦       
+¦   +---events-packages
+¦   ¦       index.php
+¦   ¦       
+¦   +---how-it-works
+¦   ¦       index.php
+¦   ¦       
+¦   +---products
+¦   ¦       index.php
+¦   ¦       
+¦   +---promo-banners
+¦           index.php
+¦           
++---assets
+¦   +---cameras
+¦   ¦   ¦   Canon 1200D.png
+¦   ¦   ¦   Canon 4000D (Copy) 1.png
+¦   ¦   ¦   Canon 4000D (Copy).png
+¦   ¦   ¦   Canon 400D.png
+¦   ¦   ¦   Canon 700D (Copy).png
+¦   ¦   ¦   Canon 700D.png
+¦   ¦   ¦   Canon EOS R5 Mark II Mk II.jpeg
+¦   ¦   ¦   Canon New Product (1) 1.png
+¦   ¦   ¦   Canon New Product (1) 2.png
+¦   ¦   ¦   Canon New Product (1).png
+¦   ¦   ¦   Canon New Product (2).png
+¦   ¦   ¦   Canon New Product (Copy) 1.png
+¦   ¦   ¦   Canon New Product (Copy) 2.png
+¦   ¦   ¦   Canon New Product (Copy) 3.png
+¦   ¦   ¦   Canon New Product (Copy) 4.png
+¦   ¦   ¦   Canon New Product (Copy) 5.png
+¦   ¦   ¦   Canon New Product (Copy).png
+¦   ¦   ¦   Fujifilm XA-3.png
+¦   ¦   ¦   Nikon D3500 1.png
+¦   ¦   ¦   Nikon D3500.png
+¦   ¦   ¦   Nikon D60 (Copy).png
+¦   ¦   ¦   Nikon D60.png
+¦   ¦   ¦   Sony A7 III.png
+¦   ¦   ¦   Sony ZV-E10.png
+¦   ¦   ¦   
+¦   ¦   +---product_information
+¦   ¦   ¦       Canon 700D Information 1.jpg
+¦   ¦   ¦       Canon 700D Information 1.png
+¦   ¦   ¦       Canon 700D Information 2.png
+¦   ¦   ¦       Canon 700D Information.png
+¦   ¦   ¦       Canon New Product (Copy) Information 1.jpg
+¦   ¦   ¦       Canon New Product (Copy) Information.jpg
+¦   ¦   ¦       Nikon D60 Information 1.png
+¦   ¦   ¦       Nikon D60 Information.png
+¦   ¦   ¦       
+¦   ¦   +---_archived
+¦   ¦           Canon 4000D (Copy) 20260324-150312.png
+¦   ¦           Canon 4000D (Copy) 20260324-151202.png
+¦   ¦           Canon 4000D (Copy) 20260326-102550.png
+¦   ¦           Canon Ardie 20260326-102446.png
+¦   ¦           Canon New Product (1) 20261025-220554.png
+¦   ¦           Canon New Product (1) 20261025-221901.png
+¦   ¦           Canon New Product (2) 20261025-220556.png
+¦   ¦           Canon New Product (3) 20261025-220558.png
+¦   ¦           Canon New Product (Copy) 20260326-102551.png
+¦   ¦           Canon New Product (Copy) 20260327-093930.png
+¦   ¦           Canon New Product (Copy) 20260328-090022.png
+¦   ¦           Canon New Product (Copy) 20260402-040452.jpg
+¦   ¦           Canon New Product (Copy) 20260402-063651.png
+¦   ¦           Canon New Product (Copy) 20260403-010058.png
+¦   ¦           Canon New Product (Copy) 20261012-073745.png
+¦   ¦           Canon New Product (Copy) 20261015-102348.png
+¦   ¦           Canon New Product (Copy) 20261025-220552.png
+¦   ¦           Canon New Product (Copy) 20261025-221856.png
+¦   ¦           Mark III 20260403-010100.png
+¦   ¦           Nikon Ardie 20260324-150311.png
+¦   ¦           Sony Assignment 20260326-102553.png
+¦   ¦           
+¦   +---delivery_receipts
+¦   ¦   +---receive
+¦   ¦           ord-20261024211909-382249cb-receive-delivery.png
+¦   ¦           ord-20261026030334-c218d53a-receive-delivery.png
+¦   ¦           
+¦   +---event_packages
+¦   ¦   +---0000
+¦   ¦   ¦   +---civil-wedding_Jerome-and-Marian
+¦   ¦   ¦   ¦       CLT05291.jpg
+¦   ¦   ¦   ¦       CLT05306.jpg
+¦   ¦   ¦   ¦       CLT05321.jpg
+¦   ¦   ¦   ¦       CLT05338.jpg
+¦   ¦   ¦   ¦       CLT05654.jpg
+¦   ¦   ¦   ¦       CLT05786.jpg
+¦   ¦   ¦   ¦       CLT05823.jpg
+¦   ¦   ¦   ¦       CLT05841.jpg
+¦   ¦   ¦   ¦       CLT05897.jpg
+¦   ¦   ¦   ¦       CLT05969.jpg
+¦   ¦   ¦   ¦       CLT06168.jpg
+¦   ¦   ¦   ¦       CLT06170.jpg
+¦   ¦   ¦   ¦       CLT06193.jpg
+¦   ¦   ¦   ¦       CLT06278.jpg
+¦   ¦   ¦   ¦       CLT06300.jpg
+¦   ¦   ¦   ¦       CLT06304.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---test_Test-Colelction
+¦   ¦   ¦   ¦       BattleAxe.png
+¦   ¦   ¦   ¦       Blue-Soul-Sword.png
+¦   ¦   ¦   ¦       Broad-Slasher.png
+¦   ¦   ¦   ¦       Demon-Sword.png
+¦   ¦   ¦   ¦       Flame-Sword.png
+¦   ¦   ¦   ¦       Gamma-Sword.png
+¦   ¦   ¦   ¦       Golden-Aura-Sword.png
+¦   ¦   ¦   ¦       Great-Broad-Sword.png
+¦   ¦   ¦   ¦       Great-Sword.png
+¦   ¦   ¦   ¦       Keris-Lance.png
+¦   ¦   ¦   ¦       Knife.png
+¦   ¦   ¦   ¦       Long-Sword.png
+¦   ¦   ¦   ¦       Machete.png
+¦   ¦   ¦   ¦       Omniscient-Sword.png
+¦   ¦   ¦   ¦       Point-Sword.png
+¦   ¦   ¦   ¦       Sky-Greatsword.png
+¦   ¦   ¦   ¦       Stick.png
+¦   ¦   ¦   ¦       Sunfire-Sword.png
+¦   ¦   ¦   ¦       Sword.png
+¦   ¦   ¦   ¦       Warrior-Sword.png
+¦   ¦   ¦   ¦       Wolf-Shard-Sword.png
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---wedding_Jeanne-and-Nilo
+¦   ¦   ¦           CLT04035.jpg
+¦   ¦   ¦           CLT04801.jpg
+¦   ¦   ¦           CLT04842.jpg
+¦   ¦   ¦           CLT05491.jpg
+¦   ¦   ¦           CLT06000.jpg
+¦   ¦   ¦           
+¦   ¦   +---0001
+¦   ¦   ¦   +---baptism_Padua-Silang-Baptism
+¦   ¦   ¦   ¦       CLT03593.jpg
+¦   ¦   ¦   ¦       CLT03599.jpg
+¦   ¦   ¦   ¦       CLT03639.jpg
+¦   ¦   ¦   ¦       CLT03708.jpg
+¦   ¦   ¦   ¦       CLT03846.jpg
+¦   ¦   ¦   ¦       CLT04061.jpg
+¦   ¦   ¦   ¦       CLT04304.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---birthday-60th_Delia
+¦   ¦   ¦   ¦       IMG_8370.jpg
+¦   ¦   ¦   ¦       IMG_8545.jpg
+¦   ¦   ¦   ¦       IMG_8723.jpg
+¦   ¦   ¦   ¦       IMG_8747.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---birthday-Xth_Willow
+¦   ¦   ¦   ¦       DSC02165.JPG
+¦   ¦   ¦   ¦       DSC02178.JPG
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---birthday-Xth_Zofia
+¦   ¦   ¦           CLT00571.jpg
+¦   ¦   ¦           CLT00595.jpg
+¦   ¦   ¦           CLT00760.jpg
+¦   ¦   ¦           CLT00824.jpg
+¦   ¦   ¦           CLT00835.jpg
+¦   ¦   ¦           CLT00865.jpg
+¦   ¦   ¦           CLT00876.jpg
+¦   ¦   ¦           
+¦   ¦   +---0002
+¦   ¦   ¦   +---debut_Abishai
+¦   ¦   ¦   ¦       IMG_5516.jpg
+¦   ¦   ¦   ¦       _CLT7478 (7).jpg
+¦   ¦   ¦   ¦       _CLT7543 (1).jpg
+¦   ¦   ¦   ¦       _CLT7569 (2).jpg
+¦   ¦   ¦   ¦       _CLT7700 (1).jpg
+¦   ¦   ¦   ¦       _CLT8193.jpg
+¦   ¦   ¦   ¦       _CLT8217.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---debut_Janna
+¦   ¦   ¦   ¦       IMG_6377.jpg
+¦   ¦   ¦   ¦       IMG_6383.jpg
+¦   ¦   ¦   ¦       IMG_6407.jpg
+¦   ¦   ¦   ¦       IMG_6458.jpg
+¦   ¦   ¦   ¦       IMG_6514.jpg
+¦   ¦   ¦   ¦       IMG_6520 (1).jpg
+¦   ¦   ¦   ¦       IMG_6527 (1).jpg
+¦   ¦   ¦   ¦       IMG_6539 (1).jpg
+¦   ¦   ¦   ¦       IMG_6540.jpg
+¦   ¦   ¦   ¦       IMG_6577 (1).jpg
+¦   ¦   ¦   ¦       IMG_6870.jpg
+¦   ¦   ¦   ¦       IMG_6909.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---pre-debut_Sina
+¦   ¦   ¦           DSC00058.jpg
+¦   ¦   ¦           DSC00125.jpg
+¦   ¦   ¦           IMG_1845.jpg
+¦   ¦   ¦           IMG_1856.jpg
+¦   ¦   ¦           IMG_1863.jpg
+¦   ¦   ¦           IMG_1878.jpg
+¦   ¦   ¦           
+¦   ¦   +---0004
+¦   ¦       +---business_JCRD-Builders
+¦   ¦       ¦       CLT02022.jpg
+¦   ¦       ¦       CLT02028.jpg
+¦   ¦       ¦       CLT02041.jpg
+¦   ¦       ¦       CLT02061.jpg
+¦   ¦       ¦       CLT02102.jpg
+¦   ¦       ¦       CLT02309.jpg
+¦   ¦       ¦       CLT02351.jpg
+¦   ¦       ¦       CLT02368.jpg
+¦   ¦       ¦       CLT02453.jpg
+¦   ¦       ¦       CLT02468.jpg
+¦   ¦       ¦       CLT02488.jpg
+¦   ¦       ¦       CLT02561.jpg
+¦   ¦       ¦       
+¦   ¦       +---business_Romeo-must-be-smiling
+¦   ¦               IMG_6513.jpg
+¦   ¦               IMG_6516.jpg
+¦   ¦               IMG_6517.jpg
+¦   ¦               IMG_6527.jpg
+¦   ¦               IMG_6539.jpg
+¦   ¦               IMG_6546.jpg
+¦   ¦               IMG_6548.jpg
+¦   ¦               IMG_6554.jpg
+¦   ¦               IMG_6556.jpg
+¦   ¦               
+¦   +---gcash_qr
+¦   ¦       gcash-qr.png
+¦   ¦       
+¦   +---handover_proofs
+¦   ¦       ord-20261014164553-be854041-handover.jpg
+¦   ¦       ord-20261015201204-3db7b65a-handover.jpg
+¦   ¦       ord-20261015202714-7fb84ac2-handover.jpg
+¦   ¦       ord-20261015204848-872f7024-handover.jpg
+¦   ¦       ord-20261024154510-9d326835-handover.jpg
+¦   ¦       ord-20261024175222-de9ce880-handover.jpg
+¦   ¦       ord-20261024210336-eec40a49-handover.jpg
+¦   ¦       ord-20261026025305-e79691af-handover.jpg
+¦   ¦       ord-20261026143351-40bac976-handover.jpg
+¦   ¦       
+¦   +---how_it_works
+¦   ¦   ¦   1.png
+¦   ¦   ¦   2.png
+¦   ¦   ¦   3.png
+¦   ¦   ¦   4.png
+¦   ¦   ¦   
+¦   ¦   +---_archived
+¦   ¦           how-it-works-2-20260326-102619.png
+¦   ¦           how-it-works-2-20260326-102716.png
+¦   ¦           how-it-works-4-20260326-102556.png
+¦   ¦           how-it-works-4-20260326-102717.png
+¦   ¦           
+¦   +---icons
+¦   ¦       admin-login-icon.svg
+¦   ¦       arrow_up.svg
+¦   ¦       cancel.svg
+¦   ¦       cart_icon.svg
+¦   ¦       check.svg
+¦   ¦       crop.svg
+¦   ¦       customer-login-icon.svg
+¦   ¦       drag_pan.svg
+¦   ¦       email_icon.svg
+¦   ¦       folder_open.svg
+¦   ¦       gear.svg
+¦   ¦       google_icon.svg
+¦   ¦       help_icon.svg
+¦   ¦       history.svg
+¦   ¦       id_card.svg
+¦   ¦       notifications.svg
+¦   ¦       notifications_unread.svg
+¦   ¦       password_icon.svg
+¦   ¦       pencil.svg
+¦   ¦       print.svg
+¦   ¦       star.svg
+¦   ¦       swap_horizontal_arrows.svg
+¦   ¦       visibility_off.svg
+¦   ¦       visibility_on.svg
+¦   ¦       zoom_in_out.svg
+¦   ¦       
+¦   +---images
+¦   ¦       main_logo.png
+¦   ¦       
+¦   +---message_attachments
+¦   ¦       20260402053822-a98f1bda0cf0-658288927_2123063471792265_2185620901470783050_n.jpg
+¦   ¦       20260402054039-13b36b557551-654330195_969778768878298_8726646321663392151_n.png
+¦   ¦       20260402054039-2e0b12bee792-654249144_1262739352619390_6914472044583329096_n.png
+¦   ¦       20260402054039-54073ed8261a-658288927_2123063471792265_2185620901470783050_n.jpg
+¦   ¦       20260402055426-7f014a426b83-0002.png
+¦   ¦       20261017012958-f05b755dea6b-1x1.png
+¦   ¦       20261024101602-edd81057cffd-output-1.png
+¦   ¦       
+¦   +---order_item_thumbnails
+¦   ¦       canon-1200d.png
+¦   ¦       canon-700d.png
+¦   ¦       canon-eos-r5-mark-ii-mk-ii.jpg
+¦   ¦       canon-new-product-1-1.png
+¦   ¦       canon-new-product-1.png
+¦   ¦       canon-new-product-copy.png
+¦   ¦       fuji-x-a3.png
+¦   ¦       nikon-d60.png
+¦   ¦       sony-a7-iii.png
+¦   ¦       
+¦   +---payment_receipts
+¦   ¦       ord-20260403123400-1faa36b9-receipt.jpg
+¦   ¦       ord-20260407045420-9192b506-receipt.jpg
+¦   ¦       ord-20260407053104-bd398c69-receipt.png
+¦   ¦       ord-20260407082503-1cac4652-receipt.jpg
+¦   ¦       ord-20260407093942-8c2ff058-receipt.jpg
+¦   ¦       ord-20260408095945-1ed939ee-receipt.jpg
+¦   ¦       ord-20260408115927-45a41a9f-receipt.png
+¦   ¦       ord-20260408121526-0fe10340-receipt.png
+¦   ¦       ord-20260408121913-220cf65c-receipt.png
+¦   ¦       ord-20260410210602-0d6876d3-receipt.jpg
+¦   ¦       ord-20260410210909-52536fc7-receipt.jpg
+¦   ¦       ord-20260413205651-fdfed586-receipt.jpg
+¦   ¦       ord-20260521094729-7a6a9094-receipt.jpg
+¦   ¦       ord-20261014141438-16056fac-receipt.png
+¦   ¦       ord-20261015031514-55975b90-receipt.jpg
+¦   ¦       ord-20261015154424-33d565d8-receipt.jpg
+¦   ¦       ord-20261015202714-7fb84ac2-receipt.jpg
+¦   ¦       ord-20261015204848-872f7024-receipt.png
+¦   ¦       ord-20261024175222-de9ce880-receipt.png
+¦   ¦       ord-20261024211909-382249cb-receipt.png
+¦   ¦       ord-20261026025305-e79691af-receipt.png
+¦   ¦       ord-20261026030334-c218d53a-receipt.png
+¦   ¦       ord-20261026143351-40bac976-receipt.png
+¦   ¦       
+¦   +---promo_images
+¦   ¦   ¦   0002.png
+¦   ¦   ¦   0003.png
+¦   ¦   ¦   0004.png
+¦   ¦   ¦   
+¦   ¦   +---_archived
+¦   ¦           promo-banner-1-20261017-023238.png
+¦   ¦           promo-banner-4-20260326-102653.png
+¦   ¦           promo-banner-4-20261017-022915.png
+¦   ¦           promo-banner-5-20260403-040329.png
+¦   ¦           promo-banner-5-20261017-022934.png
+¦   ¦           promo-banner-5-20261024-100748.png
+¦   ¦           
+¦   +---refund_receipts
+¦   ¦       ord-20260407053104-bd398c69-refund.png
+¦   ¦       ord-20260407082503-1cac4652-refund.png
+¦   ¦       ord-20261015031514-55975b90-refund.jpg
+¦   ¦       ord-20261015154424-33d565d8-refund.jpg
+¦   ¦       
+¦   +---selfie_with_id
+¦   ¦       ord-20260410180051-da065f16-selfie-with-id.jpg
+¦   ¦       ord-20261024211909-382249cb-selfie-with-id.png
+¦   ¦       ord-20261026025305-e79691af-selfie-with-id.png
+¦   ¦       ord-20261026030334-c218d53a-selfie-with-id.png
+¦   ¦       
+¦   +---service_packages
+¦   ¦   +---photography-package-1
+¦   ¦   ¦   +---civil-wedding_Jerome-and-Marian
+¦   ¦   ¦           CLT05291.jpeg
+¦   ¦   ¦           CLT05306.jpeg
+¦   ¦   ¦           CLT05321.jpeg
+¦   ¦   ¦           CLT05338.jpeg
+¦   ¦   ¦           CLT05654.jpeg
+¦   ¦   ¦           CLT05786.jpeg
+¦   ¦   ¦           CLT05823.jpeg
+¦   ¦   ¦           CLT05841.jpeg
+¦   ¦   ¦           CLT05897.jpeg
+¦   ¦   ¦           CLT05969.jpeg
+¦   ¦   ¦           CLT06168.jpeg
+¦   ¦   ¦           CLT06170.jpeg
+¦   ¦   ¦           CLT06193.jpeg
+¦   ¦   ¦           CLT06278.jpeg
+¦   ¦   ¦           CLT06300.jpeg
+¦   ¦   ¦           CLT06304.jpeg
+¦   ¦   ¦           
+¦   ¦   +---photography-package-2
+¦   ¦   ¦   +---wedding_Jeanne-and-Nilo
+¦   ¦   ¦           CLT04035.jpeg
+¦   ¦   ¦           CLT04801.jpeg
+¦   ¦   ¦           CLT04842.jpeg
+¦   ¦   ¦           CLT05491.jpeg
+¦   ¦   ¦           CLT06000.jpeg
+¦   ¦   ¦           
+¦   ¦   +---photography-package-3
+¦   ¦   ¦   +---birthday_Zofias-Birthday
+¦   ¦   ¦           CLT00571.jpeg
+¦   ¦   ¦           CLT00595.jpeg
+¦   ¦   ¦           CLT00760.jpeg
+¦   ¦   ¦           CLT00824.jpeg
+¦   ¦   ¦           CLT00835.jpeg
+¦   ¦   ¦           CLT00865.jpeg
+¦   ¦   ¦           CLT00876.jpeg
+¦   ¦   ¦           
+¦   ¦   +---photography-videography-package-1
+¦   ¦   ¦   +---pre-debut_Sina
+¦   ¦   ¦           2026-04-02-00-03-40.mp4
+¦   ¦   ¦           DSC00058.jpeg
+¦   ¦   ¦           DSC00125.jpeg
+¦   ¦   ¦           IMG_1845.jpeg
+¦   ¦   ¦           IMG_1856.jpeg
+¦   ¦   ¦           IMG_1863.jpeg
+¦   ¦   ¦           IMG_1878.jpeg
+¦   ¦   ¦           
+¦   ¦   +---photography-videography-package-2
+¦   ¦   ¦   +---business-photoshoot_Romeo-must-be-smiling
+¦   ¦   ¦           IMG_6513.jpeg
+¦   ¦   ¦           IMG_6516.jpeg
+¦   ¦   ¦           IMG_6517.jpeg
+¦   ¦   ¦           IMG_6527.jpeg
+¦   ¦   ¦           IMG_6539.jpeg
+¦   ¦   ¦           IMG_6546.jpeg
+¦   ¦   ¦           IMG_6548.jpeg
+¦   ¦   ¦           IMG_6554.jpeg
+¦   ¦   ¦           IMG_6556.jpeg
+¦   ¦   ¦           
+¦   ¦   +---photography-videography-package-3
+¦   ¦       +---business-photoshoot_JCRD-Builders
+¦   ¦               CLT02022.jpeg
+¦   ¦               CLT02028.jpeg
+¦   ¦               CLT02041.jpeg
+¦   ¦               CLT02061.jpeg
+¦   ¦               CLT02102.jpeg
+¦   ¦               CLT02309.jpeg
+¦   ¦               CLT02351.jpeg
+¦   ¦               CLT02368.jpeg
+¦   ¦               CLT02453.jpeg
+¦   ¦               CLT02468.jpeg
+¦   ¦               CLT02488.jpeg
+¦   ¦               CLT02561.jpeg
+¦   ¦               
+¦   +---valid_id
+¦   ¦       ord-20260410180051-da065f16-valid-id.jpg
+¦   ¦       ord-20261024211909-382249cb-valid-id.png
+¦   ¦       ord-20261026025305-e79691af-valid-id.png
+¦   ¦       ord-20261026030334-c218d53a-valid-id.png
+¦   ¦       
+¦   +---wireframe
+¦       +---admin
+¦       ¦       login_page_admin.png
+¦       ¦       signup_page_admin.png
+¦       ¦       
+¦       +---customers
+¦               events_page.png
+¦               featured_products.png
+¦               landing_page_customers.png
+¦               login_page_customers.png
+¦               product_page.png
+¦               signup_page_customers.png
+¦               verify_email_page.png
+¦               
++---config
+¦   ¦   booking_reason_options.php
+¦   ¦   brands.json
+¦   ¦   categories.json
+¦   ¦   customer_gcash_profiles.json
+¦   ¦   customer_gcash_profiles_repository.php
+¦   ¦   customer_notifications.json
+¦   ¦   customer_notifications_repository.php
+¦   ¦   customer_orders.json
+¦   ¦   customer_orders.json.lock
+¦   ¦   customer_orders_repository.php
+¦   ¦   customer_orders_repository.V1.php
+¦   ¦   customer_terms.json
+¦   ¦   customer_terms_repository.php
+¦   ¦   db.php
+¦   ¦   equipment_inventory.json
+¦   ¦   equipment_inventory_repository.php
+¦   ¦   equipment_inventory_repository.V1.php
+¦   ¦   equipment_statuses.json
+¦   ¦   event_collections_archive_repository.php
+¦   ¦   event_collection_images_archive_repository.php
+¦   ¦   event_packages.json
+¦   ¦   event_packages_repository.php
+¦   ¦   gcash_qr.json
+¦   ¦   gcash_qr_repository.php
+¦   ¦   handover_proofs.json
+¦   ¦   handover_proofs.json.lock
+¦   ¦   handover_proofs_repository.php
+¦   ¦   mail.php
+¦   ¦   mailer.php
+¦   ¦   meeting_places.json
+¦   ¦   meeting_places_repository.php
+¦   ¦   message_notifications.json
+¦   ¦   message_notifications_repository.php
+¦   ¦   message_notifications_repository.v1.php
+¦   ¦   products.json
+¦   ¦   products_repository.php
+¦   ¦   products_repository.v1.php
+¦   ¦   services_packages.json
+¦   ¦   services_packages_repository.php
+¦   ¦   
+¦   +---archives
+¦           equipment_units_archived.json
+¦           event_collections_archived.json
+¦           event_collection_images_archived.json
+¦           how_it_works_archived.json
+¦           products_archived.json
+¦           promo_banners_archived.json
+¦           
++---creaty
+¦   ¦   .gitignore
+¦   ¦   account_settings_page_customer.php
+¦   ¦   cart_page_customer.php
+¦   ¦   copilot-instructions.md
+¦   ¦   customer_message_modal.php
+¦   ¦   customer_message_submit.php
+¦   ¦   customer_notifications_center.php
+¦   ¦   customer_notifications_live_updates.php
+¦   ¦   customer_notifications_mark_read.php
+¦   ¦   customer_order_cancel.php
+¦   ¦   customer_order_submit.php
+¦   ¦   customer_order_upload_delivery_receipt.php
+¦   ¦   customer_order_upload_receipt.php
+¦   ¦   dashboard_page_admin.php
+¦   ¦   delivery-flow-plan.md
+¦   ¦   events_page_customer.php
+¦   ¦   event_page_customer.php
+¦   ¦   index.php
+¦   ¦   json-to-sql-visual-map.md
+¦   ¦   login_page_admin.php
+¦   ¦   login_page_customer.php
+¦   ¦   login_page_staff.php
+¦   ¦   logout_page_admin.php
+¦   ¦   logout_page_customer.php
+¦   ¦   notifications_page_admin.php
+¦   ¦   product_page_customer.php
+¦   ¦   search_suggestions.php
+¦   ¦   services_page_customer.php
+¦   ¦   service_page_customer.php
+¦   ¦   signup_page_admin.php
+¦   ¦   signup_page_customer.php
+¦   ¦   verify_email_page_customer.php
+¦   ¦   
+¦   +---.github
+¦   ¦       copilot-instructions.md
+¦   ¦       events_package_reset.md
+¦   ¦       
+¦   +---admin
+¦   ¦   ¦   index.php
+¦   ¦   ¦   logout.php
+¦   ¦   ¦   
+¦   ¦   +---brands
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---categories
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---dashboard
+¦   ¦   ¦       archive_event_collection.php
+¦   ¦   ¦       archive_event_package.php
+¦   ¦   ¦       archive_product.php
+¦   ¦   ¦       archive_promo_banner.php
+¦   ¦   ¦       close_delivery_leg.php
+¦   ¦   ¦       create_event_collection.php
+¦   ¦   ¦       create_product.php
+¦   ¦   ¦       create_service_collection.php
+¦   ¦   ¦       delete_how_it_works.php
+¦   ¦   ¦       duplicate_product.php
+¦   ¦   ¦       index.php
+¦   ¦   ¦       restore_archived_event_collection.php
+¦   ¦   ¦       restore_archived_event_package.php
+¦   ¦   ¦       restore_archived_how_it_works.php
+¦   ¦   ¦       restore_archived_product.php
+¦   ¦   ¦       restore_archived_promo_banner.php
+¦   ¦   ¦       update_booking_status.php
+¦   ¦   ¦       update_customer_terms.php
+¦   ¦   ¦       update_event_collection_images.php
+¦   ¦   ¦       update_gcash_qr.php
+¦   ¦   ¦       update_how_it_works.php
+¦   ¦   ¦       update_product.php
+¦   ¦   ¦       update_promo_banner.php
+¦   ¦   ¦       update_service_collection_images.php
+¦   ¦   ¦       upload_delivery_receipt.php
+¦   ¦   ¦       
+¦   ¦   +---event
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---events
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---gcash-qr
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---notifications
+¦   ¦   ¦       index.php
+¦   ¦   ¦       live_updates.php
+¦   ¦   ¦       mark_read.php
+¦   ¦   ¦       
+¦   ¦   +---products
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---service
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---services
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---signup
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---toc
+¦   ¦           index.php
+¦   ¦           
+¦   +---archive
+¦   ¦   ¦   index.php
+¦   ¦   ¦   
+¦   ¦   +---events-collections
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---events-packages
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---how-it-works
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---products
+¦   ¦   ¦       index.php
+¦   ¦   ¦       
+¦   ¦   +---promo-banners
+¦   ¦           index.php
+¦   ¦           
+¦   +---assets
+¦   ¦   +---cameras
+¦   ¦   ¦   ¦   Canon 1200D.png
+¦   ¦   ¦   ¦   Canon 4000D (Copy) 1.png
+¦   ¦   ¦   ¦   Canon 4000D (Copy) 2.png
+¦   ¦   ¦   ¦   Canon 4000D (Copy).png
+¦   ¦   ¦   ¦   Canon 400D.png
+¦   ¦   ¦   ¦   Canon 700D (Copy).png
+¦   ¦   ¦   ¦   Canon 700D.png
+¦   ¦   ¦   ¦   Canon New Product (Copy) 1.png
+¦   ¦   ¦   ¦   Canon New Product (Copy) 2.png
+¦   ¦   ¦   ¦   Canon New Product (Copy) 3.png
+¦   ¦   ¦   ¦   Canon New Product (Copy) 4.png
+¦   ¦   ¦   ¦   Canon New Product (Copy).png
+¦   ¦   ¦   ¦   Fujifilm XA-3.png
+¦   ¦   ¦   ¦   Nikon D60 (Copy).png
+¦   ¦   ¦   ¦   Nikon D60.png
+¦   ¦   ¦   ¦   Sony ZV-E10.png
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---product_information
+¦   ¦   ¦   ¦       Canon 700D Information 1.jpg
+¦   ¦   ¦   ¦       Canon 700D Information 1.png
+¦   ¦   ¦   ¦       Canon 700D Information 2.png
+¦   ¦   ¦   ¦       Canon 700D Information.jpg
+¦   ¦   ¦   ¦       Canon 700D Information.png
+¦   ¦   ¦   ¦       Nikon D60 Information 1.png
+¦   ¦   ¦   ¦       Nikon D60 Information.png
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---_archived
+¦   ¦   ¦           Canon 4000D (Copy) 20260324-150312.png
+¦   ¦   ¦           Canon 4000D (Copy) 20260324-151202.png
+¦   ¦   ¦           Canon 4000D (Copy) 20260326-102550.png
+¦   ¦   ¦           Canon Ardie 20260326-102446.png
+¦   ¦   ¦           Canon New Product (Copy) 20260326-102551.png
+¦   ¦   ¦           Canon New Product (Copy) 20260327-093930.png
+¦   ¦   ¦           Canon New Product (Copy) 20260328-090022.png
+¦   ¦   ¦           Canon New Product (Copy) 20260402-040452.jpg
+¦   ¦   ¦           Canon New Product (Copy) 20260402-063651.png
+¦   ¦   ¦           Canon New Product (Copy) 20260403-010058.png
+¦   ¦   ¦           Mark III 20260403-010100.png
+¦   ¦   ¦           Nikon Ardie 20260324-150311.png
+¦   ¦   ¦           Sony Assignment 20260326-102553.png
+¦   ¦   ¦           
+¦   ¦   +---event_packages
+¦   ¦   ¦   +---0000
+¦   ¦   ¦   ¦   +---civil-wedding_Jerome-and-Marian
+¦   ¦   ¦   ¦   ¦       CLT05291.jpg
+¦   ¦   ¦   ¦   ¦       CLT05306.jpg
+¦   ¦   ¦   ¦   ¦       CLT05321.jpg
+¦   ¦   ¦   ¦   ¦       CLT05338.jpg
+¦   ¦   ¦   ¦   ¦       CLT05654.jpg
+¦   ¦   ¦   ¦   ¦       CLT05786.jpg
+¦   ¦   ¦   ¦   ¦       CLT05823.jpg
+¦   ¦   ¦   ¦   ¦       CLT05841.jpg
+¦   ¦   ¦   ¦   ¦       CLT05897.jpg
+¦   ¦   ¦   ¦   ¦       CLT05969.jpg
+¦   ¦   ¦   ¦   ¦       CLT06168.jpg
+¦   ¦   ¦   ¦   ¦       CLT06170.jpg
+¦   ¦   ¦   ¦   ¦       CLT06193.jpg
+¦   ¦   ¦   ¦   ¦       CLT06278.jpg
+¦   ¦   ¦   ¦   ¦       CLT06300.jpg
+¦   ¦   ¦   ¦   ¦       CLT06304.jpg
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---test_Test-Colelction
+¦   ¦   ¦   ¦   ¦       BattleAxe.png
+¦   ¦   ¦   ¦   ¦       Blue-Soul-Sword.png
+¦   ¦   ¦   ¦   ¦       Broad-Slasher.png
+¦   ¦   ¦   ¦   ¦       Demon-Sword.png
+¦   ¦   ¦   ¦   ¦       Flame-Sword.png
+¦   ¦   ¦   ¦   ¦       Gamma-Sword.png
+¦   ¦   ¦   ¦   ¦       Golden-Aura-Sword.png
+¦   ¦   ¦   ¦   ¦       Great-Broad-Sword.png
+¦   ¦   ¦   ¦   ¦       Great-Sword.png
+¦   ¦   ¦   ¦   ¦       Keris-Lance.png
+¦   ¦   ¦   ¦   ¦       Knife.png
+¦   ¦   ¦   ¦   ¦       Long-Sword.png
+¦   ¦   ¦   ¦   ¦       Machete.png
+¦   ¦   ¦   ¦   ¦       Omniscient-Sword.png
+¦   ¦   ¦   ¦   ¦       Point-Sword.png
+¦   ¦   ¦   ¦   ¦       Sky-Greatsword.png
+¦   ¦   ¦   ¦   ¦       Stick.png
+¦   ¦   ¦   ¦   ¦       Sunfire-Sword.png
+¦   ¦   ¦   ¦   ¦       Sword.png
+¦   ¦   ¦   ¦   ¦       Warrior-Sword.png
+¦   ¦   ¦   ¦   ¦       Wolf-Shard-Sword.png
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---wedding_Jeanne-and-Nilo
+¦   ¦   ¦   ¦           CLT04035.jpg
+¦   ¦   ¦   ¦           CLT04801.jpg
+¦   ¦   ¦   ¦           CLT04842.jpg
+¦   ¦   ¦   ¦           CLT05491.jpg
+¦   ¦   ¦   ¦           CLT06000.jpg
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---0001
+¦   ¦   ¦   ¦   +---baptism_Padua-Silang-Baptism
+¦   ¦   ¦   ¦   ¦       CLT03593.jpg
+¦   ¦   ¦   ¦   ¦       CLT03599.jpg
+¦   ¦   ¦   ¦   ¦       CLT03639.jpg
+¦   ¦   ¦   ¦   ¦       CLT03708.jpg
+¦   ¦   ¦   ¦   ¦       CLT03846.jpg
+¦   ¦   ¦   ¦   ¦       CLT04061.jpg
+¦   ¦   ¦   ¦   ¦       CLT04304.jpg
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---birthday-60th_Delia
+¦   ¦   ¦   ¦   ¦       IMG_8370.jpg
+¦   ¦   ¦   ¦   ¦       IMG_8545.jpg
+¦   ¦   ¦   ¦   ¦       IMG_8723.jpg
+¦   ¦   ¦   ¦   ¦       IMG_8747.jpg
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---birthday-Xth_Willow
+¦   ¦   ¦   ¦   ¦       DSC02165.JPG
+¦   ¦   ¦   ¦   ¦       DSC02178.JPG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---birthday-Xth_Zofia
+¦   ¦   ¦   ¦           CLT00571.jpg
+¦   ¦   ¦   ¦           CLT00595.jpg
+¦   ¦   ¦   ¦           CLT00760.jpg
+¦   ¦   ¦   ¦           CLT00824.jpg
+¦   ¦   ¦   ¦           CLT00835.jpg
+¦   ¦   ¦   ¦           CLT00865.jpg
+¦   ¦   ¦   ¦           CLT00876.jpg
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---0002
+¦   ¦   ¦   ¦   +---debut_Abishai
+¦   ¦   ¦   ¦   ¦       IMG_5516.jpg
+¦   ¦   ¦   ¦   ¦       _CLT7478 (7).jpg
+¦   ¦   ¦   ¦   ¦       _CLT7543 (1).jpg
+¦   ¦   ¦   ¦   ¦       _CLT7569 (2).jpg
+¦   ¦   ¦   ¦   ¦       _CLT7700 (1).jpg
+¦   ¦   ¦   ¦   ¦       _CLT8193.jpg
+¦   ¦   ¦   ¦   ¦       _CLT8217.jpg
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---debut_Janna
+¦   ¦   ¦   ¦   ¦       IMG_6377.jpg
+¦   ¦   ¦   ¦   ¦       IMG_6383.jpg
+¦   ¦   ¦   ¦   ¦       IMG_6407.jpg
+¦   ¦   ¦   ¦   ¦       IMG_6458.jpg
+¦   ¦   ¦   ¦   ¦       IMG_6514.jpg
+¦   ¦   ¦   ¦   ¦       IMG_6520 (1).jpg
+¦   ¦   ¦   ¦   ¦       IMG_6527 (1).jpg
+¦   ¦   ¦   ¦   ¦       IMG_6539 (1).jpg
+¦   ¦   ¦   ¦   ¦       IMG_6540.jpg
+¦   ¦   ¦   ¦   ¦       IMG_6577 (1).jpg
+¦   ¦   ¦   ¦   ¦       IMG_6870.jpg
+¦   ¦   ¦   ¦   ¦       IMG_6909.jpg
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---pre-debut_Sina
+¦   ¦   ¦   ¦           DSC00058.jpg
+¦   ¦   ¦   ¦           DSC00125.jpg
+¦   ¦   ¦   ¦           IMG_1845.jpg
+¦   ¦   ¦   ¦           IMG_1856.jpg
+¦   ¦   ¦   ¦           IMG_1863.jpg
+¦   ¦   ¦   ¦           IMG_1878.jpg
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---0004
+¦   ¦   ¦       +---business_JCRD-Builders
+¦   ¦   ¦       ¦       CLT02022.jpg
+¦   ¦   ¦       ¦       CLT02028.jpg
+¦   ¦   ¦       ¦       CLT02041.jpg
+¦   ¦   ¦       ¦       CLT02061.jpg
+¦   ¦   ¦       ¦       CLT02102.jpg
+¦   ¦   ¦       ¦       CLT02309.jpg
+¦   ¦   ¦       ¦       CLT02351.jpg
+¦   ¦   ¦       ¦       CLT02368.jpg
+¦   ¦   ¦       ¦       CLT02453.jpg
+¦   ¦   ¦       ¦       CLT02468.jpg
+¦   ¦   ¦       ¦       CLT02488.jpg
+¦   ¦   ¦       ¦       CLT02561.jpg
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---business_Romeo-must-be-smiling
+¦   ¦   ¦               IMG_6513.jpg
+¦   ¦   ¦               IMG_6516.jpg
+¦   ¦   ¦               IMG_6517.jpg
+¦   ¦   ¦               IMG_6527.jpg
+¦   ¦   ¦               IMG_6539.jpg
+¦   ¦   ¦               IMG_6546.jpg
+¦   ¦   ¦               IMG_6548.jpg
+¦   ¦   ¦               IMG_6554.jpg
+¦   ¦   ¦               IMG_6556.jpg
+¦   ¦   ¦               
+¦   ¦   +---gcash_qr
+¦   ¦   ¦       gcash-qr.png
+¦   ¦   ¦       
+¦   ¦   +---how_it_works
+¦   ¦   ¦   ¦   1.png
+¦   ¦   ¦   ¦   2.png
+¦   ¦   ¦   ¦   3.png
+¦   ¦   ¦   ¦   4.png
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---_archived
+¦   ¦   ¦           how-it-works-2-20260326-102619.png
+¦   ¦   ¦           how-it-works-2-20260326-102716.png
+¦   ¦   ¦           how-it-works-4-20260326-102556.png
+¦   ¦   ¦           how-it-works-4-20260326-102717.png
+¦   ¦   ¦           
+¦   ¦   +---icons
+¦   ¦   ¦       admin-login-icon.svg
+¦   ¦   ¦       arrow_up.svg
+¦   ¦   ¦       cancel.svg
+¦   ¦   ¦       cart_icon.svg
+¦   ¦   ¦       check.svg
+¦   ¦   ¦       crop.svg
+¦   ¦   ¦       customer-login-icon.svg
+¦   ¦   ¦       drag_pan.svg
+¦   ¦   ¦       email_icon.svg
+¦   ¦   ¦       folder_open.svg
+¦   ¦   ¦       gear.svg
+¦   ¦   ¦       google_icon.svg
+¦   ¦   ¦       help_icon.svg
+¦   ¦   ¦       history.svg
+¦   ¦   ¦       id_card.svg
+¦   ¦   ¦       notifications.svg
+¦   ¦   ¦       notifications_unread.svg
+¦   ¦   ¦       password_icon.svg
+¦   ¦   ¦       pencil.svg
+¦   ¦   ¦       print.svg
+¦   ¦   ¦       star.svg
+¦   ¦   ¦       swap_horizontal_arrows.svg
+¦   ¦   ¦       visibility_off.svg
+¦   ¦   ¦       visibility_on.svg
+¦   ¦   ¦       zoom_in_out.svg
+¦   ¦   ¦       
+¦   ¦   +---images
+¦   ¦   ¦       main_logo.png
+¦   ¦   ¦       
+¦   ¦   +---message_attachments
+¦   ¦   ¦       20260402053822-a98f1bda0cf0-658288927_2123063471792265_2185620901470783050_n.jpg
+¦   ¦   ¦       20260402054039-13b36b557551-654330195_969778768878298_8726646321663392151_n.png
+¦   ¦   ¦       20260402054039-2e0b12bee792-654249144_1262739352619390_6914472044583329096_n.png
+¦   ¦   ¦       20260402054039-54073ed8261a-658288927_2123063471792265_2185620901470783050_n.jpg
+¦   ¦   ¦       20260402055426-7f014a426b83-0002.png
+¦   ¦   ¦       
+¦   ¦   +---order_item_thumbnails
+¦   ¦   ¦       canon-1200d.png
+¦   ¦   ¦       canon-700d.png
+¦   ¦   ¦       nikon-d60.png
+¦   ¦   ¦       
+¦   ¦   +---payment_receipts
+¦   ¦   ¦       ord-20260403123400-1faa36b9-receipt.jpg
+¦   ¦   ¦       ord-20260407045420-9192b506-receipt.jpg
+¦   ¦   ¦       ord-20260407053104-bd398c69-receipt.png
+¦   ¦   ¦       ord-20260407082503-1cac4652-receipt.jpg
+¦   ¦   ¦       ord-20260407093942-8c2ff058-receipt.jpg
+¦   ¦   ¦       ord-20260408095945-1ed939ee-receipt.jpg
+¦   ¦   ¦       ord-20260408115927-45a41a9f-receipt.png
+¦   ¦   ¦       ord-20260408121526-0fe10340-receipt.png
+¦   ¦   ¦       ord-20260408121913-220cf65c-receipt.png
+¦   ¦   ¦       ord-20260410210602-0d6876d3-receipt.jpg
+¦   ¦   ¦       ord-20260410210909-52536fc7-receipt.jpg
+¦   ¦   ¦       ord-20260413205651-fdfed586-receipt.jpg
+¦   ¦   ¦       ord-20260521094729-7a6a9094-receipt.jpg
+¦   ¦   ¦       
+¦   ¦   +---promo_images
+¦   ¦   ¦   ¦   0001.png
+¦   ¦   ¦   ¦   0002.png
+¦   ¦   ¦   ¦   0003.png
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---_archived
+¦   ¦   ¦           promo-banner-4-20260326-102653.png
+¦   ¦   ¦           promo-banner-5-20260403-040329.png
+¦   ¦   ¦           
+¦   ¦   +---refund_receipts
+¦   ¦   ¦       ord-20260407053104-bd398c69-refund.png
+¦   ¦   ¦       ord-20260407082503-1cac4652-refund.png
+¦   ¦   ¦       
+¦   ¦   +---selfie_with_id
+¦   ¦   ¦       ord-20260410180051-da065f16-selfie-with-id.jpg
+¦   ¦   ¦       
+¦   ¦   +---service_packages
+¦   ¦   ¦   +---photography-package-1
+¦   ¦   ¦   ¦   +---civil-wedding_Jerome-and-Marian
+¦   ¦   ¦   ¦           CLT05291.jpeg
+¦   ¦   ¦   ¦           CLT05306.jpeg
+¦   ¦   ¦   ¦           CLT05321.jpeg
+¦   ¦   ¦   ¦           CLT05338.jpeg
+¦   ¦   ¦   ¦           CLT05654.jpeg
+¦   ¦   ¦   ¦           CLT05786.jpeg
+¦   ¦   ¦   ¦           CLT05823.jpeg
+¦   ¦   ¦   ¦           CLT05841.jpeg
+¦   ¦   ¦   ¦           CLT05897.jpeg
+¦   ¦   ¦   ¦           CLT05969.jpeg
+¦   ¦   ¦   ¦           CLT06168.jpeg
+¦   ¦   ¦   ¦           CLT06170.jpeg
+¦   ¦   ¦   ¦           CLT06193.jpeg
+¦   ¦   ¦   ¦           CLT06278.jpeg
+¦   ¦   ¦   ¦           CLT06300.jpeg
+¦   ¦   ¦   ¦           CLT06304.jpeg
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---photography-package-2
+¦   ¦   ¦   ¦   +---wedding_Jeanne-and-Nilo
+¦   ¦   ¦   ¦           CLT04035.jpeg
+¦   ¦   ¦   ¦           CLT04801.jpeg
+¦   ¦   ¦   ¦           CLT04842.jpeg
+¦   ¦   ¦   ¦           CLT05491.jpeg
+¦   ¦   ¦   ¦           CLT06000.jpeg
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---photography-package-3
+¦   ¦   ¦   ¦   +---birthday_Zofias-Birthday
+¦   ¦   ¦   ¦           CLT00571.jpeg
+¦   ¦   ¦   ¦           CLT00595.jpeg
+¦   ¦   ¦   ¦           CLT00760.jpeg
+¦   ¦   ¦   ¦           CLT00824.jpeg
+¦   ¦   ¦   ¦           CLT00835.jpeg
+¦   ¦   ¦   ¦           CLT00865.jpeg
+¦   ¦   ¦   ¦           CLT00876.jpeg
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---photography-videography-package-1
+¦   ¦   ¦   ¦   +---pre-debut_Sina
+¦   ¦   ¦   ¦           2026-04-02-00-03-40.mp4
+¦   ¦   ¦   ¦           DSC00058.jpeg
+¦   ¦   ¦   ¦           DSC00125.jpeg
+¦   ¦   ¦   ¦           IMG_1845.jpeg
+¦   ¦   ¦   ¦           IMG_1856.jpeg
+¦   ¦   ¦   ¦           IMG_1863.jpeg
+¦   ¦   ¦   ¦           IMG_1878.jpeg
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---photography-videography-package-2
+¦   ¦   ¦   ¦   +---business-photoshoot_Romeo-must-be-smiling
+¦   ¦   ¦   ¦           IMG_6513.jpeg
+¦   ¦   ¦   ¦           IMG_6516.jpeg
+¦   ¦   ¦   ¦           IMG_6517.jpeg
+¦   ¦   ¦   ¦           IMG_6527.jpeg
+¦   ¦   ¦   ¦           IMG_6539.jpeg
+¦   ¦   ¦   ¦           IMG_6546.jpeg
+¦   ¦   ¦   ¦           IMG_6548.jpeg
+¦   ¦   ¦   ¦           IMG_6554.jpeg
+¦   ¦   ¦   ¦           IMG_6556.jpeg
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---photography-videography-package-3
+¦   ¦   ¦       +---business-photoshoot_JCRD-Builders
+¦   ¦   ¦               CLT02022.jpeg
+¦   ¦   ¦               CLT02028.jpeg
+¦   ¦   ¦               CLT02041.jpeg
+¦   ¦   ¦               CLT02061.jpeg
+¦   ¦   ¦               CLT02102.jpeg
+¦   ¦   ¦               CLT02309.jpeg
+¦   ¦   ¦               CLT02351.jpeg
+¦   ¦   ¦               CLT02368.jpeg
+¦   ¦   ¦               CLT02453.jpeg
+¦   ¦   ¦               CLT02468.jpeg
+¦   ¦   ¦               CLT02488.jpeg
+¦   ¦   ¦               CLT02561.jpeg
+¦   ¦   ¦               
+¦   ¦   +---valid_id
+¦   ¦   ¦       ord-20260410180051-da065f16-valid-id.jpg
+¦   ¦   ¦       
+¦   ¦   +---wireframe
+¦   ¦       +---admin
+¦   ¦       ¦       login_page_admin.png
+¦   ¦       ¦       signup_page_admin.png
+¦   ¦       ¦       
+¦   ¦       +---customers
+¦   ¦               events_page.png
+¦   ¦               featured_products.png
+¦   ¦               landing_page_customers.png
+¦   ¦               login_page_customers.png
+¦   ¦               product_page.png
+¦   ¦               signup_page_customers.png
+¦   ¦               verify_email_page.png
+¦   ¦               
+¦   +---config
+¦   ¦   ¦   brands.json
+¦   ¦   ¦   categories.json
+¦   ¦   ¦   customer_gcash_profiles.json
+¦   ¦   ¦   customer_gcash_profiles_repository.php
+¦   ¦   ¦   customer_notifications.json
+¦   ¦   ¦   customer_notifications_repository.php
+¦   ¦   ¦   customer_orders.json
+¦   ¦   ¦   customer_orders_repository.php
+¦   ¦   ¦   customer_terms.json
+¦   ¦   ¦   customer_terms_repository.php
+¦   ¦   ¦   db.php
+¦   ¦   ¦   equipment_inventory.json
+¦   ¦   ¦   equipment_inventory_repository.php
+¦   ¦   ¦   equipment_statuses.json
+¦   ¦   ¦   event_collections_archive_repository.php
+¦   ¦   ¦   event_collection_images_archive_repository.php
+¦   ¦   ¦   event_packages.json
+¦   ¦   ¦   event_packages_repository.php
+¦   ¦   ¦   gcash_qr.json
+¦   ¦   ¦   gcash_qr_repository.php
+¦   ¦   ¦   mail.php
+¦   ¦   ¦   mailer.php
+¦   ¦   ¦   message_notifications.json
+¦   ¦   ¦   message_notifications_repository.php
+¦   ¦   ¦   products.json
+¦   ¦   ¦   products_repository.php
+¦   ¦   ¦   services_packages.json
+¦   ¦   ¦   services_packages_repository.php
+¦   ¦   ¦   
+¦   ¦   +---archives
+¦   ¦           equipment_units_archived.json
+¦   ¦           event_collections_archived.json
+¦   ¦           event_collection_images_archived.json
+¦   ¦           how_it_works_archived.json
+¦   ¦           products_archived.json
+¦   ¦           promo_banners_archived.json
+¦   ¦           
+¦   +---css
+¦   ¦       style.css
+¦   ¦       
+¦   +---customer-account-settings
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-cart
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-event
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-events
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-login
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-logout
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-privacy-policy
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-products
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-service
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-services
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-signup
+¦   ¦       index.php
+¦   ¦       
+¦   +---customer-verify-email
+¦   ¦       index.php
+¦   ¦       
+¦   +---js
+¦   ¦       script.js
+¦   ¦       
+¦   +---staff
+¦           index.php
+¦           
++---css
+¦       admin-equipment.css
+¦       admin-refinements.css
+¦       catalog-filters.1.css
+¦       catalog-filters.2.css
+¦       catalog-filters.css
+¦       form-refinements.css
+¦       style.1.css
+¦       style.2.css
+¦       style.22.css
+¦       style.3.css
+¦       style.4.css
+¦       style.5.css
+¦       style.css
+¦       transaction-history.css
+¦       ui-refinements.css
+¦       
++---customer-account-settings
+¦       index.php
+¦       
++---customer-cart
+¦       index.php
+¦       
++---customer-event
+¦       index.php
+¦       
++---customer-events
+¦       index.php
+¦       
++---customer-forgot-password
+¦       index.php
+¦       
++---customer-login
+¦       index.php
+¦       
++---customer-logout
+¦       index.php
+¦       
++---customer-privacy-policy
+¦       index.php
+¦       
++---customer-products
+¦       index.php
+¦       
++---customer-reset-password
+¦       index.php
+¦       
++---customer-service
+¦       index.php
+¦       
++---customer-services
+¦       index.php
+¦       
++---customer-signup
+¦       index.php
+¦       
++---customer-verify-email
+¦       index.php
+¦       
++---docs
+¦       booking-lifecycle.md
+¦       feedback-validation.md
+¦       
++---js
+¦       admin-equipment.js
+¦       script.js
+¦       script.js.v1
+¦       script.js.V2
+¦       transaction-history.js
+¦       
++---scripts
+¦       process_booking_lifecycle.php
+¦       
++---staff
+¦       index.php
+¦       
++---tests
+¦       booking-ui.test.js
+¦       booking_lifecycle_test.php
+¦       catalog-filters.test.js
+¦       transaction-history.test.js
+¦       
++---vendor
+    ¦   autoload.php
+    ¦   
+    +---composer
+    ¦       autoload_classmap.php
+    ¦       autoload_namespaces.php
+    ¦       autoload_psr4.php
+    ¦       autoload_real.php
+    ¦       autoload_static.php
+    ¦       ClassLoader.php
+    ¦       installed.json
+    ¦       installed.php
+    ¦       InstalledVersions.php
+    ¦       LICENSE
+    ¦       platform_check.php
+    ¦       
+    +---phpmailer
+        +---phpmailer
+            ¦   COMMITMENT
+            ¦   composer.json
+            ¦   get_oauth_token.php
+            ¦   LICENSE
+            ¦   README.md
+            ¦   SECURITY.md
+            ¦   SMTPUTF8.md
+            ¦   VERSION
+            ¦   
+            +---language
+            ¦       phpmailer.lang-af.php
+            ¦       phpmailer.lang-ar.php
+            ¦       phpmailer.lang-as.php
+            ¦       phpmailer.lang-az.php
+            ¦       phpmailer.lang-ba.php
+            ¦       phpmailer.lang-be.php
+            ¦       phpmailer.lang-bg.php
+            ¦       phpmailer.lang-bn.php
+            ¦       phpmailer.lang-ca.php
+            ¦       phpmailer.lang-cs.php
+            ¦       phpmailer.lang-da.php
+            ¦       phpmailer.lang-de.php
+            ¦       phpmailer.lang-el.php
+            ¦       phpmailer.lang-eo.php
+            ¦       phpmailer.lang-es.php
+            ¦       phpmailer.lang-et.php
+            ¦       phpmailer.lang-fa.php
+            ¦       phpmailer.lang-fi.php
+            ¦       phpmailer.lang-fo.php
+            ¦       phpmailer.lang-fr.php
+            ¦       phpmailer.lang-gl.php
+            ¦       phpmailer.lang-he.php
+            ¦       phpmailer.lang-hi.php
+            ¦       phpmailer.lang-hr.php
+            ¦       phpmailer.lang-hu.php
+            ¦       phpmailer.lang-hy.php
+            ¦       phpmailer.lang-id.php
+            ¦       phpmailer.lang-it.php
+            ¦       phpmailer.lang-ja.php
+            ¦       phpmailer.lang-ka.php
+            ¦       phpmailer.lang-ko.php
+            ¦       phpmailer.lang-ku.php
+            ¦       phpmailer.lang-lt.php
+            ¦       phpmailer.lang-lv.php
+            ¦       phpmailer.lang-mg.php
+            ¦       phpmailer.lang-mn.php
+            ¦       phpmailer.lang-ms.php
+            ¦       phpmailer.lang-nb.php
+            ¦       phpmailer.lang-nl.php
+            ¦       phpmailer.lang-pl.php
+            ¦       phpmailer.lang-pt.php
+            ¦       phpmailer.lang-pt_br.php
+            ¦       phpmailer.lang-ro.php
+            ¦       phpmailer.lang-ru.php
+            ¦       phpmailer.lang-si.php
+            ¦       phpmailer.lang-sk.php
+            ¦       phpmailer.lang-sl.php
+            ¦       phpmailer.lang-sr.php
+            ¦       phpmailer.lang-sr_latn.php
+            ¦       phpmailer.lang-sv.php
+            ¦       phpmailer.lang-tl.php
+            ¦       phpmailer.lang-tr.php
+            ¦       phpmailer.lang-uk.php
+            ¦       phpmailer.lang-ur.php
+            ¦       phpmailer.lang-vi.php
+            ¦       phpmailer.lang-zh.php
+            ¦       phpmailer.lang-zh_cn.php
+            ¦       
+            +---src
+                    DSNConfigurator.php
+                    Exception.php
+                    OAuth.php
+                    OAuthTokenProvider.php
+                    PHPMailer.php
+                    POP3.php
+                    SMTP.php
+                    

@@ -1,0 +1,136 @@
+{
+    "photography-package-1": {
+        "serviceType": "photography",
+        "sortOrder": 1,
+        "title": "PACKAGE 1",
+        "description": "3 hours with 1 photographer, 200+ edited photos, Online gallery and download, No transportation fee around Carmona.",
+        "price": "3299.00",
+        "discountPercent": 10,
+        "durationUnit": "hours",
+        "durationValue": 3,
+        "thumbnail_images": [
+            "assets/service_packages/photography-package-1/civil-wedding_Jerome-and-Marian/CLT05321.jpeg",
+            "assets/service_packages/photography-package-1/civil-wedding_Jerome-and-Marian/CLT05897.jpeg",
+            "assets/service_packages/photography-package-1/civil-wedding_Jerome-and-Marian/CLT05841.jpeg",
+            "assets/service_packages/photography-package-1/civil-wedding_Jerome-and-Marian/CLT06168.jpeg",
+            "assets/service_packages/photography-package-1/civil-wedding_Jerome-and-Marian/CLT06193.jpeg"
+        ],
+        "camera1": "canon-1200d",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": ""
+    },
+    "photography-package-2": {
+        "serviceType": "photography",
+        "sortOrder": 2,
+        "title": "PACKAGE 2",
+        "description": "5 hours with 2 photographers, 400+ edited photos, Online gallery and download, No transportation fee around Carmona and Laguna.",
+        "price": "8499.00",
+        "discountPercent": 0,
+        "durationUnit": "hours",
+        "durationValue": 5,
+        "thumbnail_images": [
+            "assets/service_packages/photography-package-2/wedding_Jeanne-and-Nilo/CLT04035.jpeg",
+            "assets/service_packages/photography-package-2/wedding_Jeanne-and-Nilo/CLT04801.jpeg",
+            "assets/service_packages/photography-package-2/wedding_Jeanne-and-Nilo/CLT04842.jpeg",
+            "assets/service_packages/photography-package-2/wedding_Jeanne-and-Nilo/CLT05491.jpeg",
+            "assets/service_packages/photography-package-2/wedding_Jeanne-and-Nilo/CLT06000.jpeg"
+        ],
+        "camera1": "canon-4000d",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": ""
+    },
+    "photography-package-3": {
+        "serviceType": "photography",
+        "sortOrder": 3,
+        "title": "PACKAGE 3",
+        "description": "Full day with 2 photographers, 600+ edited photos, Online gallery and download, No transportation fee around Carmona and Laguna.",
+        "price": "10499.00",
+        "discountPercent": 0,
+        "durationUnit": "hours",
+        "durationValue": 8,
+        "thumbnail_images": [
+            "assets/service_packages/photography-package-3/birthday_Zofias-Birthday/CLT00571.jpeg",
+            "assets/service_packages/photography-package-3/birthday_Zofias-Birthday/CLT00595.jpeg",
+            "assets/service_packages/photography-package-3/birthday_Zofias-Birthday/CLT00760.jpeg",
+            "assets/service_packages/photography-package-3/birthday_Zofias-Birthday/CLT00824.jpeg",
+            "assets/service_packages/photography-package-3/birthday_Zofias-Birthday/CLT00835.jpeg",
+            "assets/service_packages/photography-package-3/birthday_Zofias-Birthday/CLT00865.jpeg",
+            "assets/service_packages/photography-package-3/birthday_Zofias-Birthday/CLT00876.jpeg"
+        ],
+        "camera1": "canon-700d",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": ""
+    },
+    "photography-videography-package-1": {
+        "serviceType": "photography-videography",
+        "sortOrder": 1,
+        "title": "PACKAGE 1",
+        "description": "3-4 hours with 1 photographer and 1 videographer, 200+ edited photos and videos, Online gallery and download, No transportation fee around Carmona.",
+        "price": "7499.00",
+        "discountPercent": 0,
+        "durationUnit": "hours",
+        "durationValue": 4,
+        "thumbnail_images": [
+            "assets/service_packages/photography-videography-package-1/pre-debut_Sina/DSC00058.jpeg",
+            "assets/service_packages/photography-videography-package-1/pre-debut_Sina/DSC00125.jpeg",
+            "assets/service_packages/photography-videography-package-1/pre-debut_Sina/IMG_1845.jpeg",
+            "assets/service_packages/photography-videography-package-1/pre-debut_Sina/IMG_1856.jpeg",
+            "assets/service_packages/photography-videography-package-1/pre-debut_Sina/IMG_1863.jpeg",
+            "assets/service_packages/photography-videography-package-1/pre-debut_Sina/IMG_1878.jpeg"
+        ],
+        "camera1": "fuji-x-a3",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": ""
+    },
+    "photography-videography-package-2": {
+        "serviceType": "photography-videography",
+        "sortOrder": 2,
+        "title": "PACKAGE 2",
+        "description": "5-6 hours with 2 photographers and 1 videographer, 400+ edited photos and videos, Online gallery and download, No transportation fee around Carmona and Laguna.",
+        "price": "10899.00",
+        "discountPercent": 0,
+        "durationUnit": "hours",
+        "durationValue": 6,
+        "thumbnail_images": [
+            "assets/service_packages/photography-videography-package-2/business-photoshoot_Romeo-must-be-smiling/IMG_6513.jpeg",
+            "assets/service_packages/photography-videography-package-2/business-photoshoot_Romeo-must-be-smiling/IMG_6516.jpeg",
+            "assets/service_packages/photography-videography-package-2/business-photoshoot_Romeo-must-be-smiling/IMG_6517.jpeg",
+            "assets/service_packages/photography-videography-package-2/business-photoshoot_Romeo-must-be-smiling/IMG_6527.jpeg",
+            "assets/service_packages/photography-videography-package-2/business-photoshoot_Romeo-must-be-smiling/IMG_6539.jpeg",
+            "assets/service_packages/photography-videography-package-2/business-photoshoot_Romeo-must-be-smiling/IMG_6546.jpeg",
+            "assets/service_packages/photography-videography-package-2/business-photoshoot_Romeo-must-be-smiling/IMG_6548.jpeg",
+            "assets/service_packages/photography-videography-package-2/business-photoshoot_Romeo-must-be-smiling/IMG_6554.jpeg",
+            "assets/service_packages/photography-videography-package-2/business-photoshoot_Romeo-must-be-smiling/IMG_6556.jpeg"
+        ],
+        "camera1": "nikon-d60",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": ""
+    },
+    "photography-videography-package-3": {
+        "serviceType": "photography-videography",
+        "sortOrder": 3,
+        "title": "PACKAGE 3",
+        "description": "Full day with 2 photographers, 1 videographer and 1 assistant, 600+ edited photos and videos, 20 page Photo album, Online gallery and download, No transportation fee around Carmona and Laguna.",
+        "price": "13899.00",
+        "discountPercent": 0,
+        "durationUnit": "hours",
+        "durationValue": 8,
+        "thumbnail_images": [
+            "assets/service_packages/photography-videography-package-3/business-photoshoot_JCRD-Builders/CLT02022.jpeg",
+            "assets/service_packages/photography-videography-package-3/business-photoshoot_JCRD-Builders/CLT02028.jpeg",
+            "assets/service_packages/photography-videography-package-3/business-photoshoot_JCRD-Builders/CLT02041.jpeg",
+            "assets/service_packages/photography-videography-package-3/business-photoshoot_JCRD-Builders/CLT02061.jpeg",
+            "assets/service_packages/photography-videography-package-3/business-photoshoot_JCRD-Builders/CLT02102.jpeg",
+            "assets/service_packages/photography-videography-package-3/business-photoshoot_JCRD-Builders/CLT02309.jpeg"
+        ],
+        "camera1": "sony-zv-e10",
+        "camera2": "",
+        "backupCamera1": "",
+        "backupCamera2": ""
+    }
+}

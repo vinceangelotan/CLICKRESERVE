@@ -1,0 +1,38 @@
+[
+    {
+        "archiveKey": "promo-banner-4-20260326-102653",
+        "archivedAt": "2026-03-26T10:26:53+00:00",
+        "slot": 4,
+        "imagePath": "assets/promo_images/_archived/promo-banner-4-20260326-102653.png"
+    },
+    {
+        "archiveKey": "promo-banner-5-20260403-040329",
+        "archivedAt": "2026-04-03T04:03:29+00:00",
+        "slot": 5,
+        "imagePath": "assets/promo_images/_archived/promo-banner-5-20260403-040329.png"
+    },
+    {
+        "archiveKey": "promo-banner-4-20261017-022915",
+        "archivedAt": "2026-10-17T02:29:15+00:00",
+        "slot": 4,
+        "imagePath": "assets/promo_images/_archived/promo-banner-4-20261017-022915.png"
+    },
+    {
+        "archiveKey": "promo-banner-5-20261017-022934",
+        "archivedAt": "2026-10-17T02:29:34+00:00",
+        "slot": 5,
+        "imagePath": "assets/promo_images/_archived/promo-banner-5-20261017-022934.png"
+    },
+    {
+        "archiveKey": "promo-banner-1-20261017-023238",
+        "archivedAt": "2026-10-17T02:32:38+00:00",
+        "slot": 1,
+        "imagePath": "assets/promo_images/_archived/promo-banner-1-20261017-023238.png"
+    },
+    {
+        "archiveKey": "promo-banner-5-20261024-100748",
+        "archivedAt": "2026-10-24T10:07:48+00:00",
+        "slot": 5,
+        "imagePath": "assets/promo_images/_archived/promo-banner-5-20261024-100748.png"
+    }
+]
